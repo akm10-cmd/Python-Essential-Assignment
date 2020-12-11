@@ -1,1 +1,1 @@
-# Python-Essential-Assignment-s
+# Python-Essential-Assignments
